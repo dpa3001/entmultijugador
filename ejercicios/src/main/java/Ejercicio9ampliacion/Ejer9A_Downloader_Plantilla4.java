@@ -1,4 +1,4 @@
-package ejemplo;
+package Ejercicio9ampliacion;
 
 import static es.urjc.etsii.code.concurrency.SimpleConcurrent.*;
 
