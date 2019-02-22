@@ -23,4 +23,7 @@ Se desea implementar en Java un programa con dos hilos, el hilo principal Main y
   - Dice las siguientes frases cada dos segundos: "La vida es bella", "O no...", "Los pajaritos cantan", "Y molestan...”
   - Si el hilo principal le interrumpe antes de terminar, dice “Se acabó!”
 
-3. Cada hilo debe indicar su nombre cada vez que dice algo
+3. Cada hilo debe indicar su nombre cada vez que dice algo.
+
+Licencia CC - Micael Gallego. 
+Modificaciones - DPA.
