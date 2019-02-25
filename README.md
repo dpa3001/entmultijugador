@@ -27,3 +27,7 @@ Se desea implementar en Java un programa con dos hilos, el hilo principal Main y
 
 Licencia CC - Micael Gallego. 
 Modificaciones - DPA.
+
+## Tema 5 - Ejercicio básico de CyclicBarrier
+
+Se desea implementar 3 hilos que pinten primero 3 Aes, depués un guión y finalmente 3 Bes. Es imprescindible el uso de la clase CyclicBarrier de Java.
