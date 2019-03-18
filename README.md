@@ -1,5 +1,5 @@
 # Entornos Multijugador
-Este repositorio lo vamos a utilizar para subir código perteneciente a la asignatura de Entornos Multijugador.
+Este repositorio lo vamos a utilizar para subir código perteneciente a la asignatura de Entornos Multijugador de los temas 2 al 5 (Java).
 
 ## Tema 2 - Ejercicio 9. Downloader
 Se quiere implementar una aplicación para descargar ficheros. La aplicación debe tener la capacidad de descargar un único fichero, pero debe ser capaz de descargar varios fragmentos del fichero de manera concurrente para aprovechar de forma más eficiente la red.
@@ -31,3 +31,23 @@ Modificaciones - DPA.
 ## Tema 5 - Ejercicio básico de CyclicBarrier
 
 Se desea implementar 3 hilos que pinten primero 3 Aes, depués un guión y finalmente 3 Bes. Es imprescindible el uso de la clase CyclicBarrier de Java.
+
+## Tema 5 - Ejercicio CountDownLatch
+
+Se solicita modificar el ejercicio de los semáforos por la estrategia CountDownLatch
+
+# Tema 5 - Fábrica de Coches
+
+Este ejercicio está orientado a POO puro. La idea es generar una fábrica de construcción de coches emulando las diferentes tareas entre los robots de montaje y las máquinas de generación de piezas.
+
+# Tema 5 - Aeropuerto
+
+Ejercicio básico de repaso de las estructuras de datos en Java.
+
+# Tema 5 - Gestor de Viajes
+
+Ejercicio intermedio que emula un gestor de viajes. Dada una ciudad de origen y/o destino, el usuario podrá ver por pantalla los diferentes vuelos existentes.
+
+# Tema 5 - FindDuplicates (Uso de Estructuras de Datos Concurrentes y Executors)
+
+Este ejercicio útil, permite de forma recursiva obtener todos los ficheros duplicados dadas dos carpetas de nuestro sistema operativo.
